@@ -1,6 +1,6 @@
 # Neetcode Solutions
 
-This repository contains my solutions and practice code for **Neetcode problems**.  
+This repository contains my solutions and DSA practice for several **Neetcode problems**.  
 
 **Topics Covered:**
 - Arrays & Hashing
